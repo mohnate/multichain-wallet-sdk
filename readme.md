@@ -70,10 +70,10 @@ import { EthereumWallet } from  'multichain-wallet-sdk';
 - Send BNB
 - Transfer tokens
 
-Contribute [here](https://github.com/formysister/multichain-wallet-sdk/fork).
-Submit issues [here](https://github.com/formysister/multichain-wallet-sdk/issues).
+Contribute [here](https://github.com/mohnate/multichain-wallet-sdk/fork).
+Submit issues [here](https://github.com/mohnate/multichain-wallet-sdk/issues).
 
 ### More blockchains and networks will be added.
 
 ## Enjoy your work !
-Made with ❤ by [formysister](https://github.com/formysister)
+Made with ❤ by [mohnate](https://github.com/mohnate)
